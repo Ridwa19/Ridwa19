@@ -1,8 +1,5 @@
 <p align="center">Hello, I'm <span style="color:pink; font-size: large; font-weight: bold;">Ridwaan Adam Ali</span></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F77CFF&size=25&center=true&vCenter=true&width=450&lines=Web%20Developer;%20Open%20Source%20Contributor;%20Interested%20in%20Machine%20Learning" />
-</p>
 <div>
   👀 I'm deeply interested in building websites and apps, and I'm excited about open source projects and learning about machine learning.
   <br>
@@ -10,6 +7,9 @@
   <br>
   💞️ I'm looking forward to working on full stack projects with others.
 </div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F77CFF&size=25&center=true&vCenter=true&width=450&lines=Web%20Developer;%20Open%20Source%20Contributor;%20Interested%20in%20Machine%20Learning" />
+</p>
 
 
 <div align="center">
