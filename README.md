@@ -1,4 +1,4 @@
-# <p align="center">Hello, I'm <span style="color:pink font:large;">Ridwaan Adan Ali</span></p>
+# <p align="center">Hello, I'm <span style="color:pink font:large;">Ridwaan Adam Ali</span></p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F77CFF&size=25&center=true&vCenter=true&width=450&lines=Web+Developer;Open+Source+Contributor;Machine+Learning+Enthusiast" />
 </p>
@@ -12,7 +12,7 @@
 </div>
 
 
-                     ### Connect with me
+ ### Connect with me
 <div align="center">
   <a href="https://github.com/Ridwa19" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
