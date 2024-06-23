@@ -7,9 +7,13 @@
 ---
 
 ### About Me
-👀 I’m a passionate **Web Developer**, enthusiastic about **Open Source Projects**, and interested in **Machine Learning**.
-- 🌱 Currently honing my skills in **React** and **Node.js**.
-- 💞️ I’m eager to collaborate on **Full Stack Projects**.
+<div align="center">
+  👀 I’m a passionate <strong>Web Developer</strong>, enthusiastic about <strong>Open Source Projects</strong>, and interested in <strong>Machine Learning</strong>.
+  <br>
+  🌱 Currently honing my skills in <strong>React</strong> and <strong>Node.js</strong>.
+  <br>
+  💞️ I’m eager to collaborate on <strong>Full Stack Projects</strong>.
+</div>
 
 ---
 
@@ -76,5 +80,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ridwa19&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwa19&layout=compact&theme=radical" alt="Top Languages">
 </p>
