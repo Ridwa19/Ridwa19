@@ -4,16 +4,15 @@
 </p>
 
 <div align="center">
- ChatGPT
 👀 I'm deeply interested in building websites and apps, and I'm excited about open source projects and learning about machine learning.
 
-🌱  I'm improving my skills in React and Node.js.
+🌱 I'm improving my skills in React and Node.js.
 
 💞️💞️ I'm looking forward to working on full stack projects with others
 </div>
 
 
-### Connect with me
+                     ### Connect with me
 <div align="center">
   <a href="https://github.com/Ridwa19" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
