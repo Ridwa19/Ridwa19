@@ -15,9 +15,9 @@
 💞️ I’m eager to collaborate on Full Stack Projects
 </div>
 
----
 
-### Connect with Me
+
+### Connect with me
 <div align="center">
   <a href="https://github.com/Ridwa19" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -33,9 +33,7 @@
   </a>
 </div>
 
----
 
-### Skills
 
 <div align="center">
   <h3>Programming Languages</h3>
