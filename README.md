@@ -1,4 +1,4 @@
-# <p align="center">Hello, I'm <span style="color:blue;">Ridwaan Adam Ali</span></p>
+# <p align="center" color="gray">Hello, I'm <span style="color:blue;">Ridwaan Adam Ali</span></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23000000&size=25&center=true&vCenter=true&width=450&lines=Web+Developer;Open+Source+Contributor;Machine+Learning+Enthusiast" />
@@ -6,9 +6,9 @@
 
 ---
 
-👀 I’m interested in **Web Development**, **Open Source Projects**, and **Machine Learning**.
-- 🌱 I’m currently learning **React** and **Node.js**.
-- 💞️ I’m looking to collaborate on **Full Stack Projects**
+👀 I’m a passionate **Web Developer**, enthusiastic about **Open Source Projects**, and interested in **Machine Learning**.
+- 🌱 Currently honing my skills in **React** and **Node.js**.
+- 💞️ I’m eager to collaborate on **Full Stack Projects**.
 
 ---
 
@@ -67,6 +67,15 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ridwa19&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwa19&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
