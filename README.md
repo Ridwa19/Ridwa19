@@ -3,15 +3,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F77CFF&size=25&center=true&vCenter=true&width=450&lines=Web%20Developer;%20Open%20Source%20Contributor;%20Interested%20in%20Machine%20Learning" />
 </p>
-
-<div align="center">
+<div>
   👀 I'm deeply interested in building websites and apps, and I'm excited about open source projects and learning about machine learning.
   <br>
-   💞️ I'm looking forward to working on full stack projects with others.
   🌱 I'm improving my skills in React and Node.js.
- 
   <br>
+  💞️ I'm looking forward to working on full stack projects with others.
 </div>
+
 
 <div align="center">
   <h3>Connect with me</h3>
