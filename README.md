@@ -4,11 +4,12 @@
 </p>
 
 <div align="center">
- 👀 I’m a passionate Web Developer, enthusiastic about Open Source Projects, and interested in Machine Learning.
+ ChatGPT
+👀 I'm deeply interested in building websites and apps, and I'm excited about open source projects and learning about machine learning.
 
-🌱 Currently honing my skills in React and Node.js.
+🌱  I'm improving my skills in React and Node.js.
 
-💞️ I’m eager to collaborate on Full Stack Projects
+💞️💞️ I'm looking forward to working on full stack projects with others
 </div>
 
 
