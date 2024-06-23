@@ -5,16 +5,14 @@
 </p>
 
 <div align="center">
-  👀 I'm deeply interested in building websites and apps, and I'm excited about open source projects and learning about machine learning.
+  👀I'm deeply interested in building websites and apps, and I'm excited about open source projects and learning about machine learning.
   <br>
-  🌱 I'm improving my skills in React and Node.js.
+  🌱I'm improving my skills in React and Node.js.
   <br>
-  💞️ I'm looking forward to working on full stack projects with others.
+  💞️I'm looking forward to working on full stack projects with others.
 </div>
-
-### Connect with me
-
 <div align="center">
+  <h3>Connect with me</h3>
   <a href="https://github.com/Ridwa19" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -100,8 +98,7 @@
   </a>
 </div>
 
-### GitHub Stats
-
 <div align="center">
+  <h3>GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Ridwa19&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
