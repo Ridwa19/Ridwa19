@@ -1,7 +1,8 @@
-# Hi, I'm Ridwaan Adan Ali
+# Hello, I'm Ridwaan Adam Ali
 
-A passionate software developer with a deep love for turning ideas into practical, efficient, and user-friendly solutions. With a strong foundation in various programming languages and technologies, I thrive on tackling complex problems and delivering high-quality software. Whether it's web development, mobile apps, or back-end systems, I enjoy the creative process of coding and the satisfaction of building innovative solutions that make a difference.
-
+👀 I’m interested in **Web Development**, **Open Source Projects**, and **Machine Learning**.
+- 🌱 I’m currently learning **React** and **Node.js**.
+- 💞️ I’m looking to collaborate on **Full Stack Projects**.
 ---
 
 ### Connect with me:
