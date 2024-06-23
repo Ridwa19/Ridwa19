@@ -1,7 +1,8 @@
 # <p align="center">Hello, I'm <span style="color:pink font:large;">Ridwaan Adam Ali</span></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F77CFF&size=25&center=true&vCenter=true&width=450&lines=Web+Developer;Open+Source+Contributor;Machine+Learning+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F77CFF&size=25&center=true&vCenter=true&width=450&lines=Web%20Developer;%20Open%20Source%20Contributor;%20Interested%20in%20Machine%20Learning" />
 </p>
+
 
 <div align="center">
 👀 I'm deeply interested in building websites and apps, and I'm excited about open source projects and learning about machine learning.
@@ -101,7 +102,6 @@
   </a>
 </div>
 
----
 
 ### GitHub Stats
 
