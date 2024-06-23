@@ -1,4 +1,4 @@
-# <p align="center" color="gray">Hello, I'm <span style="color:blue;">Ridwaan Adam Ali</span></p>
+# <p align="center">Hello, I'm <span style="color:pink;">Ridwaan Adan Ali</span></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23000000&size=25&center=true&vCenter=true&width=450&lines=Web+Developer;Open+Source+Contributor;Machine+Learning+Enthusiast" />
@@ -76,13 +76,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ridwa19&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwa19&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-### Most Used Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-50%25-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-20%25-efd81d?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-30%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
