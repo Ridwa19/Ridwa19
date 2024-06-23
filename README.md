@@ -1,12 +1,8 @@
 # <p align="center">Hello, I'm <span style="color:pink font:large;">Ridwaan Adan Ali</span></p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F77CFF&size=25&center=true&vCenter=true&width=450&lines=Web+Developer;Open+Source+Contributor;Machine+Learning+Enthusiast" />
 </p>
 
-
-
-### About Me
 <div align="center">
  👀 I’m a passionate Web Developer, enthusiastic about Open Source Projects, and interested in Machine Learning.
 
@@ -14,7 +10,6 @@
 
 💞️ I’m eager to collaborate on Full Stack Projects
 </div>
-
 
 
 ### Connect with me
