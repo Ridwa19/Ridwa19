@@ -1,19 +1,19 @@
-# <p align="center">Hello, I'm <span style="color:pink font:large;">Ridwaan Adam Ali</span></p>
+<p align="center">Hello, I'm <span style="color:pink; font-size: large; font-weight: bold;">Ridwaan Adam Ali</span></p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F77CFF&size=25&center=true&vCenter=true&width=450&lines=Web%20Developer;%20Open%20Source%20Contributor;%20Interested%20in%20Machine%20Learning" />
 </p>
 
-
 <div align="center">
-👀 I'm deeply interested in building websites and apps, and I'm excited about open source projects and learning about machine learning.
-
-🌱 I'm improving my skills in React and Node.js.
-
-💞️💞️ I'm looking forward to working on full stack projects with others
+  👀 I'm deeply interested in building websites and apps, and I'm excited about open source projects and learning about machine learning.
+  <br>
+  🌱 I'm improving my skills in React and Node.js.
+  <br>
+  💞️ I'm looking forward to working on full stack projects with others.
 </div>
 
+### Connect with me
 
- ### Connect with me
 <div align="center">
   <a href="https://github.com/Ridwa19" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -28,8 +28,6 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-
-
 
 <div align="center">
   <h3>Programming Languages</h3>
@@ -101,7 +99,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;">
   </a>
 </div>
-
 
 ### GitHub Stats
 
