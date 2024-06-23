@@ -8,8 +8,8 @@
   👀 I'm deeply interested in building websites and apps, and I'm excited about open source projects and learning about machine learning.
   <br>
   🌱 I'm improving my skills in React and Node.js.
-  <br>
   💞️ I'm looking forward to working on full stack projects with others.
+  <br>
 </div>
 
 <div align="center">
