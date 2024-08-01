@@ -1,7 +1,7 @@
 <p align="center">Hello, I'm <span style="color:pink; font-size: large; font-weight: bold;">Ridwaan Adam Ali</span></p>
 
 <div>
-  👀 I'm deeply interested in building websites and apps, and I'm excited about open source projects and learning about machine learning.
+ I'm deeply interested in building websites and apps using the MERN stack (MongoDB, Express.js, React.js, Node.js). I'm passionate about contributing to open-source projects and excited to learn about machine learning.
   <br>
   🌱 I'm improving my skills in React and Node.js.
   <br>
