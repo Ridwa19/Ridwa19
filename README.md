@@ -20,7 +20,7 @@
   <a href="https://twitter.com/yourhandle" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://linkedin.com/Ridwan Adan" style="margin: 0 10px;">
+  <a href="https://linkedin.com/in/ridwan adan" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ridwaana88@gmail.com" style="margin: 0 10px;">
