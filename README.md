@@ -20,7 +20,7 @@
   <a href="https://x.com/RidwanAdan29?t=goqt8ESTB3ANpmcEXi6EXg&s=09" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://www.linkedin.com/in/ridwan-adan-a89474322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/canab-Adam-a89474322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ridwaana88@gmail.com" style="margin: 0 10px;">
